@@ -1,3 +1,3 @@
 # Employee-Backend
 
-MySQL-Spring-Hibernate-Maven
+MySQL-Spring-Hibernate-Maven-MVC
